@@ -1,0 +1,240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/users-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/updateuser-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/updatepacient-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/updatemedic-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/updatecategory-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/reservations-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/reports-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/processlogin-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/pacients-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/pacienthistory-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/oldreservations-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/newuser-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/newreservation-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/newpacient-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/newmedic-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/newcategory-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/medics-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/changelog-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/medichistory-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/login-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/index-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/editpacient-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/editreservation-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/home-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/edituser-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/editmedic-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/editcategory-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/delpacient-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/delmedic-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/configuration-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/delcategory-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/categories-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/adduser-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/addpacient-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/addmedic-view.php",
+		"/C/xampp/htdocs/bookmedik-master/core/app/view/addcategory-view.php",
+		"/C/xampp/htdocs/bookmedik-master/index.php",
+		"/C/xampp/htdocs/bookmedik-master/core/autoload.php",
+		"/C/xampp/htdocs/bookmedik-master/core/controller/Action.php",
+		"/C/xampp/htdocs/bookmedik-master/core/controller/Form.php",
+		"/C/xampp/htdocs/bookmedik-master/core/controller/Session.php",
+		"/C/xampp/htdocs/bookmedik-master/core/controller/forms/lbInputPassword.php",
+		"/C/xampp/htdocs/bookmedik-master/core/controller/forms/lbInputText.php",
+		"/C/xampp/htdocs/bookmedik-master/logout.php",
+		"/C/xampp/htdocs/bookmedik-master/instalation.txt",
+		"/C/xampp/htdocs/bookmedik-master/report/report-word.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/TemplateProcessor.sublime-workspace",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/AbstractStyle.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Extrusion.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Fill.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Font.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Frame.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Image.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Paragraph.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Paper.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Row.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Section.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Shading.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Shadow.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Shape.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Spacing.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Tab.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Table.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/TextBox.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Chart.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Cell.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Border.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Alignment.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Indentation.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Line.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/LineNumbering.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/ListItem.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Numbering.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/NumberingLevel.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/Outline.php",
+		"/C/xampp/htdocs/bookmedik-master/PhpWord/Style/TOC.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "addcategory-view.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 375.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
